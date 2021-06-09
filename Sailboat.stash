@@ -1,0 +1,14 @@
+{
+    "name": "Sailboat",
+    "version": "1.0.0",
+    "minSpecVersion": 1,
+    "host": "https://raw.githubusercontent.com/IsaacShelton/Sailboat/master/",
+    "procedure": [
+        {"folder": "assets"},
+        {"file": "assets/example_texture.png", "from": "assets/example_texture.png"},
+        {"file": "GameData.adept", "from": "GameData.adept"},
+        {"file": "Textures.adept", "from": "Textures.adept"},
+        {"file": "main.adept", "from": "main.adept"},
+        {"file": "", "from": ""}
+    ]
+}
